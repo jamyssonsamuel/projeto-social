@@ -25,11 +25,19 @@ main{
 }
 
 section#telefone{
-    height: 400px;
-    width: 500px;
-    background: url('../imagens/frame_iphone-removebg-preview.png') no-repeat;
+    height: 450px;
+    width: 480px;
+    background: url('../imagens/frame-telefone-removebg-preview.png') no-repeat;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+#tela{
+    position: relative;
+    top: 52px;
+    left: 149px;
+    width: 195px;
+    height: 347px;
 }
