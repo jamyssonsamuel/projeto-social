@@ -24,8 +24,8 @@ main{
 }
 
 section#telefone{
-    height: 627px;
-    width: 311px;
+    height: 620px;
+    width: 306px;
     background: url('../imagens/frame-iphone.png') no-repeat;
     position: absolute;
     top: 50%;
